@@ -1,0 +1,18 @@
+{
+    "User_1" : {
+        "ID": 1,
+        "UserCode": "20",
+        "Name": "Nandita Nayak",
+        "Gender": "F",
+        "Age": 23,
+        "Address":"Cuttack, Odisha"
+    },
+    "User_2" : {
+        "ID": 2,
+        "UserCode": "23",
+        "Name": "Kailash Behera",
+        "Gender": "M",
+        "Age": 24,
+        "Address":"Kendrapara, Odisha"
+    }
+}
