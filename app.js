@@ -12,6 +12,7 @@ app.get('/', (req, res) => {
     const nodeUrl = '<a href="https://nodejs.org" target="_blank" style="color: cadetblue;text-decoration: none;">Node.js</a>';
     const expressUrl = '<a href="https://expressjs.com/" target="_blank" style="color: cadetblue;text-decoration: none;">Express</a>';
     res.send(`
+        <h3 style="text-align: center;">Greetings from Kailash</h3>
         <h1 style="margin-top: 12%; text-align: center;font-family: system-ui;color: cadetblue;">Welcome To ${nodeUrl} And ${expressUrl} &#128123;</h1> 
         <div style="text-align: center;"><img src='https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png' alt="Node.js"></div>
     `);
